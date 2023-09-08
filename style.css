@@ -15,6 +15,10 @@ body{
     max-width: 300px;
     margin-top: 20px;
 }
+.card:hover{
+    transform: scale(1.05);
+    background-color: azure;
+}
 
 .img1{
     max-width: 100%;
